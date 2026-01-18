@@ -19,7 +19,7 @@ This project simulates a core banking environment where users can create account
 ## 🛠️ Tech Stack
 
 * **Frontend:** [Streamlit](https://streamlit.io/) (Web UI)
-* **Backend:** Python 3.x (Object-Oriented Programming)
+* **Backend:** Python 3.13.3 (Object-Oriented Programming)
 * **Database:** JSON (Lightweight file-based storage)
 
 ## 📂 Project Structure
